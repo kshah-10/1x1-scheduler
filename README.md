@@ -1,6 +1,6 @@
 # 1x1-scheduler
 
-###Instructions to Run the Website
+## Instructions to Run the Website
 1. Navigate to the Project Directory:
 Open your terminal and go to the folder where your project files are located.
 
